@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm M.Furkan UYGUR</h1> 
+
 # 💫 About Me:
 🔭 I’m a Front End Developer<br>💬 Ask me about HTML, CSS, Bootstrap, SCSS, JavaScript, React<br>
 
